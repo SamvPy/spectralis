@@ -60,11 +60,13 @@ def main(   mode,
     - bin reclassification for collecting probabilities of bins to posses ions of a certain type (e.g. b+, y+)\n
         
         
-    Klaproth-Andrade, D., Hingerl, J., Bruns, Y. et al. 
-    Deep learning-driven fragment ion series classification enables highly precise 
-    and sensitive de novo peptide sequencing. 
+    Daniela Klaproth-Andrade, Johannes Hingerl, Nicholas H. Yanik Bruns, Smith, Jakob Träuble, Mathias Wilhelm, Julien Gagneur: \n
+        
+    "Deep learning-driven fragment ion series classification enables highly precise and sensitive de novo peptide sequencing",\n
     
-    Nat Commun 15, 151 (2024). https://doi.org/10.1038/s41467-023-44323-7
+    bioRxiv 2023.01.05.522752; \n
+    
+    doi: https://doi.org/10.1101/2023.01.05.522752\n
     
     ==============================================================
     '''
